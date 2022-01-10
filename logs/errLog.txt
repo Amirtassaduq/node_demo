@@ -1,0 +1,2 @@
+2022-01-09	22:41:14	3210eaaa-4353-496a-bc0b-df4b1176d7d3	Error: Not allowed by CORS
+2022-01-09	22:41:38	c2dbbe14-1a83-4b1e-9eb2-b331bb57843b	Error: Not allowed by CORS
